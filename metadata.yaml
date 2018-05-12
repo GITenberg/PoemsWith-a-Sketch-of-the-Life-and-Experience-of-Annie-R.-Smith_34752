@@ -1,0 +1,42 @@
+_repo: PoemsWith-a-Sketch-of-the-Life-and-Experience-of-Annie-R.-Smith_34752
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Smith, Annie Rebekah
+    alias: Smith, Annie R. (Annie Rebekah)
+    birthdate: 1828
+    deathdate: 1855
+    gutenberg_agent_id: '37143'
+    url: http://www.gutenberg.org/2009/agents/37143
+  - agent_name: Smith, Uriah
+    birthdate: 1832
+    deathdate: 1903
+    gutenberg_agent_id: '4338'
+    url: http://www.gutenberg.org/2009/agents/4338
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Rebekah
+    gutenberg_agent_id: '37200'
+    url: http://www.gutenberg.org/2009/agents/37200
+description: Poems by Rebekah Smith -- A brief sketch of the life, last sickness and
+  death of Annie R. Smith -- Poems by Annie R. Smith -- Poems by Uriah Smith.
+gutenberg_issued: '2010-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smith, Annie Rebekah, 1828-1855'
+- !lcc 'PS'
+- !lcsh 'Poets, American -- 19th century -- Biography'
+- !lcsh 'Poetry'
+tableOfContents: Poems by Rebekah Smith -- A brief sketch of the life, last sickness
+  and death of Annie R. Smith -- Poems by Annie R. Smith -- Poems by Uriah Smith.
+title: 'Poems: With a Sketch of the Life and Experience of Annie R. Smith'
+url: http://www.gutenberg.org/ebooks/34752
