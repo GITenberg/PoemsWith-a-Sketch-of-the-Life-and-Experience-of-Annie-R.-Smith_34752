@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37200
 description: Poems by Rebekah Smith -- A brief sketch of the life, last sickness and
   death of Annie R. Smith -- Poems by Annie R. Smith -- Poems by Uriah Smith.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34752#PoemsWith-a-Sketch-of-the-Life-and-Experience-of-Annie-R.-Smith
 gutenberg_issued: '2010-12-25'
 gutenberg_type: Text
 identifiers:
